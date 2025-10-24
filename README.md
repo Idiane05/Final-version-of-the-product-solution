@@ -1,7 +1,7 @@
 ```markdown
 # Farm Ramip Platform
 
-## 🚀 Quick Installation & Setup
+##  Quick Installation & Setup
 
 ### Prerequisites
 - Node.js (v16 or higher) - [Download](https://nodejs.org/)
@@ -70,10 +70,10 @@ npm test
 ### API Documentation
 Swagger docs available at `/api-docs` when the server is running.
 
-## 🎥 Demo Video
+##  Demo Video
 [**5-Minute Demo Video Link**](INSERT_YOUR_DEMO_VIDEO_LINK_HERE)
 
-## 🌐 Live Deployment
+##  Live Deployment
 [**Access Live Application**](INSERT_YOUR_DEPLOYED_APP_LINK_HERE)
 
 ---
