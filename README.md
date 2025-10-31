@@ -4,17 +4,17 @@
 ##  Quick Installation & Setup
 
 ### Prerequisites
-- Node.js (v16 or higher) - [Download](https://nodejs.org/)
+- Node.js 
 - npm or yarn - Package manager
-- Git - [Download](https://git-scm.com/)
+- Git 
 - PostgreSQL - Database
-- VS Code (recommended) - [Download](https://code.visualstudio.com/)
+- VS Code 
 
 ### Frontend Setup
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/Idiane05/ramip-farm
+git clone [https://github.com/Idiane05/ramip-farm](https://github.com/Idiane05/ramip-farm)
 cd ramip-farm
 ```
 
@@ -37,7 +37,7 @@ npm start
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/Idiane05/ramip-farm-api.git
+git clone [https://github.com/Idiane05/ramip-farm-api.git](https://github.com/Idiane05/ramip-farm-api)
 cd ramip-farm-api
 ```
 
