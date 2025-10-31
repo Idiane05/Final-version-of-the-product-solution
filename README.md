@@ -14,7 +14,7 @@
 
 1. **Clone the repository:**
 ```bash
-git clone [https://github.com/Idiane05/ramip-farm](https://github.com/Idiane05/ramip-farm)
+git clone [**https://github.com/Idiane05/ramip-farm**](https://github.com/Idiane05/ramip-farm)
 cd ramip-farm
 ```
 
@@ -37,7 +37,7 @@ npm start
 
 1. **Clone the repository:**
 ```bash
-git clone [https://github.com/Idiane05/ramip-farm-api.git](https://github.com/Idiane05/ramip-farm-api)
+git clone [**https://github.com/Idiane05/ramip-farm-api**](https://github.com/Idiane05/ramip-farm-api)
 cd ramip-farm-api
 ```
 
