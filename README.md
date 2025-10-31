@@ -14,8 +14,8 @@
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/Idiane05/ramip-farm.git
-cd farm-ramip-platform
+git clone https://github.com/Idiane05/ramip-farm
+cd ramip-farm
 ```
 
 2. **Install Dependencies:**
@@ -37,8 +37,8 @@ npm start
 
 1. **Clone the repository:**
 ```bash
-git clone <your-repo-url>
-cd farm-ramip-backend
+git clone https://github.com/Idiane05/ramip-farm-api.git
+cd ramip-farm-api
 ```
 
 2. **Install dependencies:**
@@ -71,32 +71,21 @@ npm test
 Swagger docs available at `/api-docs` when the server is running.
 
 ##  Demo Video
-[**5-Minute Demo Video Link**](INSERT_YOUR_DEMO_VIDEO_LINK_HERE)
+[**5-Minute Demo Video Link**](https://go.screenpal.com/watch/cT6wo4nF2tK)
 
-##  Live Deployment
-[**Access Live Application**](INSERT_YOUR_DEPLOYED_APP_LINK_HERE)
+
 
 ---
 
-##  Testing Results
-
-### Frontend Testing
-![React Components Test](/screenshots/frontend-test.png)
-*User interface testing with different interaction scenarios*
-
-### Backend API Testing  
-![API Endpoints Test](/screenshots/backend-test.png)
-*API endpoint testing with various request payloads*
----
 
 ##  Analysis
 
 ### Objectives Achieved
-- ✅ React frontend successfully renders all components
-- ✅ Node.js backend handles all API requests efficiently
-- ✅ PostgreSQL database maintains data consistency with proper migrations
-- ✅ Full-stack integration works seamlessly
-- ✅ Application meets core functionality requirements for farm management
+-  React frontend successfully renders all components
+-  Node.js backend handles all API requests efficiently
+-  PostgreSQL database maintains data consistency with proper migrations
+-  Full-stack integration works seamlessly
+-  Application meets core functionality requirements for farm management
 
 ### Technical Challenges Overcome
 - Database schema design and migration management
@@ -145,4 +134,4 @@ Swagger docs available at `/api-docs` when the server is running.
 
 
 
-**Only thing missing:** Insert your demo video link in the designated spot! 🎥
+**Only thing missing:** Insert your demo video link in the designated spot! 
