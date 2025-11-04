@@ -73,6 +73,10 @@ Swagger docs available at `/api-docs` when the server is running.
 ##  Demo Video
 [**5-Minute Demo Video Link**](https://go.screenpal.com/watch/cT6wo4nF2tK)
 
+##  Deployment
+[**Deploment Link**](https://ramip-farm.onrender.com)
+
+
 
 
 ---
